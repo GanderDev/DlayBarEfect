@@ -1,0 +1,16 @@
+Hello, this text was in part translated by google translator, so if you find any mistake in writing, let me know.
+Link: https://youtu.be/gkMHkPuoP08
+Step1: Create an object on the Canvas to be the parent of the bars; 
+ 
+and create two bars, one that will be in front and one behind.
+
+Step2: Configure the bars by placing an image;and change the ImageType to Filled.
+
+Step3: Place the Effect script on the parent object;
+
+and enter the information. (remembering that the speed part is just a reference of the image)
+
+Step4: Call the UpdateVariable () function, and enter the values ??that are requested.
+
+Examples of ways to call the function:
+
